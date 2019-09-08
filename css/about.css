@@ -400,12 +400,13 @@ img.about-client-line-bg-ef {
 }
 .imgs-one-img img {
 	max-width: 100%;
+	/* 图片制灰效果
 	-webkit-filter: grayscale(100%);
 	-moz-filter: grayscale(100%);
 	-ms-filter: grayscale(100%);
 	-o-filter: grayscale(100%);
 	filter: grayscale(100%);
-	filter: gray;
+	filter: gray; */
 	height: auto;
 	transition: .6s;
 }
