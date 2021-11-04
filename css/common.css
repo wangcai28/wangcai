@@ -218,7 +218,8 @@ li{list-style:none;}
 }
 
 .more-width-qq:hover .aside-nav-one-desc {
-    width: 281px;
+    /* width: 281px; */
+    width: 218px;
 }
 
 .more-width-qq:hover .aside-nav-one-desc span{
